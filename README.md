@@ -1,6 +1,6 @@
 # todo
 
-Oh wow! You reached the lonely mountains now!
+Oh wow! You reached the top of the mountains now!
 Which means you can throw away all the keys so far,
 and keep only the master keys!
 
