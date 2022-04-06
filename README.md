@@ -1,7 +1,7 @@
 # todo
 
 Oh wow! You reached the top of the mountains now!
-Which means you can throw away all the keys so far,
+Which means you can throw away all the keys found so far,
 and keep only the master keys!
 
 ```
