@@ -12,6 +12,16 @@ First letter of where I practice my swordsmanship
 
 <br>
 
+
+<details><summary>Hint</summary>
+  <br>
+  Swordsmen practice swordsmanship.
+  
+  What do software developers practice?
+ </details>
+
+<br>
+
 ```
 Clue:
 
