@@ -1,7 +1,8 @@
 # todo
 
 Oh wow! You reached the lonely mountains now!
-Which means you 
+Which means you can throw away all the keys so far,
+and keep only the master keys!
 
 ```
 Clue:
